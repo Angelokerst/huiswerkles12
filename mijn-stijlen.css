@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+  }
+  
+  header, footer {
+	background-color: #333;
+	color: white;
+	padding: 10px;
+  }
+  
+  table {
+	border-collapse: collapse;
+	width: 100%;
+  }
+  
+  td {
+	border: 1px solid #ddd;
+	padding: 10px;
+  }
+  
+  #cel1, #cel3, #cel5, #cel7, #cel9, #cel11, #cel13, #cel15 {
+	background-color: #e6f9ff;
+  }
+  
+  #cel2, #cel4, #cel6, #cel8, #cel10, #cel12, #cel14, #cel16 {
+	background-color: #f2f2f2;
+  }
+  
